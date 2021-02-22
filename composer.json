@@ -1,0 +1,17 @@
+{
+    "name": "azim/ecommerce",
+    "authors": [
+        {
+            "name": "Azixp",
+            "email": "azimbeledjhem@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}
